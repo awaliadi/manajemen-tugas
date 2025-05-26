@@ -21,7 +21,7 @@
                 </span>
             </div>
             <div class="px-4">
-                <span class="text-sm text-gray-500 dark:text-gray-400">PHP {{ PHP_VERSION }} — Laravel {{ app()->version() }}</span>
+                <span class="text-sm text-gray-500 dark:text-gray-400">PHP {{ PHP_VERSION }} — Laravellll {{ app()->version() }}</span>
             </div>
         </div>
     </div>
